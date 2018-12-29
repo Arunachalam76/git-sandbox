@@ -1,2 +1,3 @@
 The merge is one of the most important command
+committing the changes 
 
