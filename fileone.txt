@@ -3,5 +3,6 @@ which needs to be preserved
 
 adding function one()
 adding function two()
+adding function three()
 
 
